@@ -1,5 +1,9 @@
 package S19_正则表达式匹配;
 
+/**
+ * TODO：DP解法需要学习一下，另外还有正序的解法
+ * */
+
 public class Solution {
     public boolean match(char[] str, char[] pattern)
     {
@@ -19,7 +23,7 @@ public class Solution {
     public boolean co(char[] str, char[] pattern, int st, int pt) {
         if (st < 0 && pt < 0) // 1.如果两个数组都为空，返回true
             return true;
-        else if (st == 0 && pt == 0) // 2.如果str和pattern都只有一个位置，即判断是否相等，TODO：可以归类到下面。
+        else if (st == 0 && pt == 0) // 2.如果str和pattern都只有一个位置，即判断是否相等
             return chareq(str[st],pattern[pt]);
         else if(pt< 0 && st>=0) { // 3.如果str不为空，pattern为空返回false
             return false;
