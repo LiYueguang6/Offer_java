@@ -1,3 +1,5 @@
+package 华为笔试题;
+
 import java.util.Scanner;
 
 public class HuaweiSolution2{

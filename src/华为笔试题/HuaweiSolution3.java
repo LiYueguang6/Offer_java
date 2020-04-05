@@ -1,4 +1,4 @@
-//import java.util.Scanner;
+package 华为笔试题;//import java.util.Scanner;
 import java.util.*;
 import java.math.BigInteger;
 public class HuaweiSolution3 {
