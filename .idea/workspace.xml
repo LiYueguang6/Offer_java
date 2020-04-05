@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08518206-c07b-48d2-bb38-530556857a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/20_调整数组顺序使奇数位于偶数前面.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/华为笔试题/华为笔试题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiSolution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/华为笔试题/HuaweiSolution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiSolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/华为笔试题/HuaweiSolution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiSolution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/华为笔试题/HuaweiSolution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指Offer_java/HuaweiSolution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指Offer_java/HuaweiSolution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/剑指Offer_java/HuaweiSolution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/20_调整数组顺序使奇数位于偶数前面.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/21_调整数组顺序使奇数位于偶数前面.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,13 +35,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="18_2_删除链表中重复的结点" value="1" />
-          <entry key="java" value="49" />
+          <entry key="java" value="50" />
           <entry key="md" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="49" />
+          <entry key="JAVA" value="50" />
           <entry key="Markdown" value="23" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
@@ -48,15 +49,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="37" />
-          <entry key="java" value="16572" />
-          <entry key="md" value="1795" />
+          <entry key="java" value="16834" />
+          <entry key="md" value="1933" />
           <entry key="txt" value="134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16573" />
-          <entry key="Markdown" value="1783" />
+          <entry key="JAVA" value="16835" />
+          <entry key="Markdown" value="1921" />
           <entry key="PLAIN_TEXT" value="182" />
         </counts>
       </usages-collector>
@@ -64,40 +65,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S20_表示数值的字符串/20_表示数值的字符串.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/20_调整数组顺序使奇数位于偶数前面.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/华为笔试题/华为笔试题.md">
+        <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/21_调整数组顺序使奇数位于偶数前面.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="168">
+                <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -107,10 +80,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/华为笔试题/HuaweiSolution1.java">
+        <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="189">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -178,6 +151,8 @@
         <option value="$PROJECT_DIR$/src/HuaweiSolution3.java" />
         <option value="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/20_调整数组顺序使奇数位于偶数前面.md" />
         <option value="$PROJECT_DIR$/src/华为笔试题/华为笔试题.md" />
+        <option value="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/21_调整数组顺序使奇数位于偶数前面.md" />
+        <option value="$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/Solution.java" />
       </list>
     </option>
   </component>
@@ -215,7 +190,7 @@
               <item name="剑指Offer_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="剑指Offer_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="华为笔试题" type="462c0819:PsiDirectoryNode" />
+              <item name="S21_调整数组顺序使奇数位于偶数前面" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586085813283" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586091012218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -246,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HuaweiSolution3">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="HuaweiSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="华为笔试题.HuaweiSolution1" />
       <module name="剑指Offer_java" />
@@ -281,27 +256,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S21_调整数组顺序使奇数位于偶数前面.Solution" />
       <module name="剑指Offer_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="S21_调整数组顺序使奇数位于偶数前面.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.HuaweiSolution1" />
       <item itemvalue="Application.HuaweiSolution2" />
       <item itemvalue="Application.HuaweiSolution3" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.HuaweiSolution3" />
         <item itemvalue="Application.HuaweiSolution2" />
         <item itemvalue="Application.HuaweiSolution1" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +305,7 @@
       <workItem from="1584675246592" duration="43296000" />
       <workItem from="1585098448617" duration="360000" />
       <workItem from="1585644238269" duration="598000" />
-      <workItem from="1585922153043" duration="4925000" />
+      <workItem from="1585922153043" duration="6500000" />
     </task>
     <task id="LOCAL-00001" summary="提交第6题">
       <created>1583069784873</created>
@@ -435,7 +416,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110494000" />
+    <option name="totallyTimeSpent" value="112069000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -450,7 +431,7 @@
     <frame x="-1" y="-11" width="1442" height="865" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29196557" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29196557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -459,14 +440,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4101509" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4101509" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34567901" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992035" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32921812" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32921812" />
       <window_info anchor="bottom" id="Log Viewer" order="12" />
@@ -859,18 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S20_表示数值的字符串/20_表示数值的字符串.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/华为笔试题/HuaweiSolution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -888,18 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/20_调整数组顺序使奇数位于偶数前面.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/华为笔试题/HuaweiSolution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -907,11 +864,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/S20_表示数值的字符串/20_表示数值的字符串.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/华为笔试题/华为笔试题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/S21_调整数组顺序使奇数位于偶数前面/21_调整数组顺序使奇数位于偶数前面.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
